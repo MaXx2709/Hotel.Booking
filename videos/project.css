@@ -1,0 +1,159 @@
+*{
+    /* padding: 0;
+    margin: 0;*/
+    /* color: rgb(8, 3, 3);  */
+}
+/* #navbar
+{
+    height: 60px;
+   background-color: #0f0111;
+   margin-top: 0%;
+} */
+nav
+{
+    /* background-color: #000000; */
+    /* color: black; */
+    /* width: auto; */
+    height: 60px;
+margin: auto;
+background-size: cover;
+font-size: larger;
+font-style: italic;
+font-weight: bold;
+}
+button    
+{
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(128, 101, 147, 0.744);
+}
+#B1
+{
+    font-size: x-large;
+    padding: 1px 1px;
+}
+#logo
+{
+    color: #000000;
+    font-size: 25px;
+}
+div
+{
+  text-align: center;
+}
+a
+{
+    color:rgb(255, 255, 255);
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+
+body
+{
+background-image: url(../images/hotel.jpg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+
+
+    
+}
+h1
+{
+    color: rgb(207, 180, 180) ;
+    font-size: 6rem;
+    text-align: center;
+    /* margin-top: 2%; */
+    /* margin-bottom: 2%; */
+    text-shadow: #000000;
+    border: #000000;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+h3
+{
+    color: rgb(207, 180, 180) ;
+    font-size: 200%;
+    text-align: center;
+    /* margin-top: 2%; */
+    /* margin-bottom: 2%; */
+    text-shadow: #000000;
+    border: #000000;
+    margin-top: 10px ;
+}
+
+div
+{
+ text-align: center;
+
+
+}
+input
+{
+  
+}
+#two
+{
+   padding: 1%;
+   color: black;
+   border-radius: 10px;
+   size: 50px;
+}
+::placeholder{
+    color: black;
+}
+#one
+{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.cards 
+{
+ width: 15%;
+ background-color:rgba(0, 0, 0, 0.528);
+ color: aliceblue;
+ margin: 5%;
+ border-radius: 5px;
+ box-shadow: 2px 2px 10px black;
+ display: inline-block;
+ margin-right: 4%;
+ margin-left: 5%;
+ text-align: center;
+ /* margin-bottom: 50%; */
+ /* padding-bottom: 5%; */
+}
+.image img{
+    width: 100%;
+    border-top: 5px;
+}
+#B2
+{
+    color: black;
+    margin-bottom: 5%;
+    width: 50%;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.A1
+{
+    text-align: center;
+}
+#exp
+{
+    margin-right: 0%;
+}
+h2
+{
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
